@@ -1,4 +1,6 @@
-# [ThreeBodyBot](https://github.com/kirklong/ThreeBodyBot)
+# ThreeBodyBot
+
+forked from [kirklong/ThreeBodyBot](https://github.com/kirklong/ThreeBodyBot)
 
 https://user-images.githubusercontent.com/93939472/234335201-a87a97c3-6942-4a35-a64c-e2a020b558ea.mp4
 

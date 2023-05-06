@@ -20,8 +20,7 @@ source ~/.zshrc
 ## To run:
 ```shell
 git clone https://github.com/star-bits/ThreeBodyBot.git 
-
-cd path/to/ThreeBodyBot
+cd ThreeBodyBot
 
 # make tmpPlots directory
 mkdir tmpPlots

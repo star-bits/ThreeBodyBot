@@ -2,7 +2,7 @@
 
 forked from [kirklong/ThreeBodyBot](https://github.com/kirklong/ThreeBodyBot)
 
-https://user-images.githubusercontent.com/93939472/234335201-a87a97c3-6942-4a35-a64c-e2a020b558ea.mp4
+https://github.com/star-bits/ThreeBodyBot/assets/93939472/4e6eadfb-bebe-4fb7-bd08-e613ac891c92
 
 ## To setup:
 - Install Julia (tested with version 1.8.5)
